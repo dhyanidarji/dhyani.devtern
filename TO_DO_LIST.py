@@ -42,7 +42,7 @@ def markcompleted():
 
 window=Tk()
 
-window.title("DataFlair To_Do_APP")
+window.title("To_Do_APP")
 
 
 
